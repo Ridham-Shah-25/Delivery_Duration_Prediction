@@ -13,11 +13,11 @@ I used 3 different Scalers,3 Feature Sets and 5 different Machine Learning Algor
 
 # Results
 The Best Models I found used Feature-set of top-15 features(sorted by Gini-Importance) and were scaled by Standard Scaler.The results are-
-RMSE of: LinearReg 986.6913337271566
-RMSE of: Ridge 986.6913337315796
-RMSE of: DecisionTree 1233.5450488189838
-RMSE of: RandomForest 1284.0594398152712
-RMSE of: XGBoost 1067.5736725258685
-RMSE of: LGBM 1032.6011551522938
+RMSE of: LinearReg 986.6913337271566<br>
+RMSE of: Ridge 986.6913337315796<br>
+RMSE of: DecisionTree 1233.5450488189838<br>
+RMSE of: RandomForest 1284.0594398152712<br>
+RMSE of: XGBoost 1067.5736725258685<br>
+RMSE of: LGBM 1032.6011551522938<br>
 
 Clearly,Linear and Ridge Regression Models are the ones which fit our dataset the best.
