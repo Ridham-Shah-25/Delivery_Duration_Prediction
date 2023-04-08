@@ -12,7 +12,7 @@ I found out MultiCollinearity from Variance Inflation Factor(VIF) method and rem
 I used 3 different Scalers,3 Feature Sets and 5 different Machine Learning Algorithms for finding the best Model which fits my Dataset. I used RMSE score for evaluating my models
 
 # Results
-The Best Models I found used Feature-set of top-15 features(sorted by Gini-Importance) and were scaled by Standard Scaler.The results are-
+The Best Models I found used Feature-set of top-15 features(sorted by Gini-Importance) and were scaled by Standard Scaler.The results are-<br>
 RMSE of: LinearReg: 986.6913337271566<br>
 RMSE of: Ridge: 986.6913337315796<br>
 RMSE of: DecisionTree: 1233.5450488189838<br>
